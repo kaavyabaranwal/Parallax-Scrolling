@@ -40,7 +40,6 @@ header {
 
 .base {
     position: absolute;
-
     width: 50%;
     object-fit: cover;
     height: 100%;
@@ -56,13 +55,13 @@ img {
 .title {
     color: #ffbd62;
     text-shadow: 0 0 21px #fa28ab;
-    font-size: 4rem;
+    font-size: 64px;
     margin: 0 850px 100px 0;
 }
 
 section {
     font-size: 19px;
-    padding: 2rem;
+    padding: 20px;
     background-color: black;
     color: hotpink;
     border-radius: 5px;
